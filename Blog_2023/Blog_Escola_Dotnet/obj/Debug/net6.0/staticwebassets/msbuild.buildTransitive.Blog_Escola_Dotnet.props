@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Blog_Escola_Dotnet.props" />
+</Project>
