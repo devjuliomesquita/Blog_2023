@@ -71,6 +71,15 @@ namespace Blog_Escola_Dotnet.Areas.Identity.Pages.Account
         /// </summary>
         public class InputModel
         {
+            [Required]
+            [StringLength(255, ErrorMessage = "O nome criado excedeu o limite máximo de caracteres.")]
+            [Display(Name = "FirstName")]
+            public string FirsName { get; set; }
+
+            [Required]
+            [StringLength(255, ErrorMessage = "O nome criado excedeu o limite máximo de caracteres.")]
+            [Display(Name = "LastName")]
+            public string LastName { get; set; }
             /// <summary>
             ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
             ///     directly from your code. This API may change or be removed in future releases.
@@ -114,7 +123,8 @@ namespace Blog_Escola_Dotnet.Areas.Identity.Pages.Account
             if (ModelState.IsValid)
             {
                 var user = CreateUser();
-
+                await _userStore.SetUserNameAsync(user, Input.FirsName, CancellationToken.None);
+                await _userStore.SetUserNameAsync(user, Input.LastName, CancellationToken.None);
                 await _userStore.SetUserNameAsync(user, Input.Email, CancellationToken.None);
                 await _emailStore.SetEmailAsync(user, Input.Email, CancellationToken.None);
                 var result = await _userManager.CreateAsync(user, Input.Password);
