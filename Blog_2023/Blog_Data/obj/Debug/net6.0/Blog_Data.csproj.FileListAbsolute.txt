@@ -1,0 +1,12 @@
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Data\bin\Debug\net6.0\Blog_Data.deps.json
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Data\bin\Debug\net6.0\Blog_Data.dll
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Data\bin\Debug\net6.0\Blog_Data.pdb
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Data\obj\Debug\net6.0\Blog_Data.csproj.AssemblyReference.cache
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Data\obj\Debug\net6.0\Blog_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Data\obj\Debug\net6.0\Blog_Data.AssemblyInfoInputs.cache
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Data\obj\Debug\net6.0\Blog_Data.AssemblyInfo.cs
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Data\obj\Debug\net6.0\Blog_Data.csproj.CoreCompileInputs.cache
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Data\obj\Debug\net6.0\Blog_Data.dll
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Data\obj\Debug\net6.0\refint\Blog_Data.dll
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Data\obj\Debug\net6.0\Blog_Data.pdb
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Data\obj\Debug\net6.0\ref\Blog_Data.dll
