@@ -562,3 +562,9 @@ C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Escola_Dotnet\b
 C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Escola_Dotnet\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Escola_Dotnet\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Escola_Dotnet\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Escola_Dotnet\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Escola_Dotnet\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Escola_Dotnet\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Escola_Dotnet\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Escola_Dotnet\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Escola_Dotnet\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll

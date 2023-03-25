@@ -73,12 +73,12 @@ namespace Blog_Escola_Dotnet.Areas.Identity.Pages.Account
         {
             [Required]
             [StringLength(255, ErrorMessage = "O nome criado excedeu o limite máximo de caracteres.")]
-            [Display(Name = "FirstName")]
+            [Display(Name = "Nome")]
             public string FirsName { get; set; }
 
             [Required]
             [StringLength(255, ErrorMessage = "O nome criado excedeu o limite máximo de caracteres.")]
-            [Display(Name = "LastName")]
+            [Display(Name = "Sobrenome")]
             public string LastName { get; set; }
             /// <summary>
             ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
@@ -86,7 +86,7 @@ namespace Blog_Escola_Dotnet.Areas.Identity.Pages.Account
             /// </summary>
             [Required]
             [EmailAddress]
-            [Display(Name = "Email")]
+            [Display(Name = "E-mail")]
             public string Email { get; set; }
 
             /// <summary>
@@ -104,7 +104,7 @@ namespace Blog_Escola_Dotnet.Areas.Identity.Pages.Account
             ///     directly from your code. This API may change or be removed in future releases.
             /// </summary>
             [DataType(DataType.Password)]
-            [Display(Name = "Confirm password")]
+            [Display(Name = "Confirme seu password")]
             [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
             public string ConfirmPassword { get; set; }
         }
