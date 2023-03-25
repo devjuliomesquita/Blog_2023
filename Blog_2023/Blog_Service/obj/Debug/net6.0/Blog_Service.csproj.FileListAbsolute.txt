@@ -293,3 +293,8 @@ C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Service\bin\Deb
 C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Service\bin\Debug\net6.0\refs\System.Xml.XPath.dll
 C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Service\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
 C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Service\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Service\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Service\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Service\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Service\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\julio.martins\Documents\GitHub\Blog_2023\Blog_2023\Blog_Service\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll

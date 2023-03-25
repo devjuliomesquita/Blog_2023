@@ -48,12 +48,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/julio.martins/Documents/GitHub/Blog_2023/Blog_2023/Blog_Escola_Dotnet/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julio.martins/Documents/GitHub/Blog_2023/Blog_2023/Blog_Escola_Dotnet/Views/Admin/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/julio.martins/Documents/GitHub/Blog_2023/Blog_2023/Blog_Escola_Dotnet/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/julio.martins/Documents/GitHub/Blog_2023/Blog_2023/Blog_Escola_Dotnet/Views/Home/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julio.martins/Documents/GitHub/Blog_2023/Blog_2023/Blog_Escola_Dotnet/Views/Shared/Components/AdminFooter/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWRtaW5Gb290ZXJcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julio.martins/Documents/GitHub/Blog_2023/Blog_2023/Blog_Escola_Dotnet/Views/Shared/Components/AdminSideNav/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWRtaW5TaWRlTmF2XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julio.martins/Documents/GitHub/Blog_2023/Blog_2023/Blog_Escola_Dotnet/Views/Shared/Components/AdminTopNav/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWRtaW5Ub3BOYXZcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/julio.martins/Documents/GitHub/Blog_2023/Blog_2023/Blog_Escola_Dotnet/Views/Shared/Components/Footer/Default.cshtml]

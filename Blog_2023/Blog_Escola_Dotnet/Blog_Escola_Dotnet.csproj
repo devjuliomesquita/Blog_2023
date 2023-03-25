@@ -19,4 +19,11 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.13" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Admin\" />
+    <Folder Include="Views\Shared\Components\AdminFooter\" />
+    <Folder Include="Views\Shared\Components\AdminSideNav\" />
+    <Folder Include="Views\Shared\Components\AdminTopNav\" />
+  </ItemGroup>
+
 </Project>
