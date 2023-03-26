@@ -1,6 +1,9 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Blog_Escola_Dotnet.Areas.Identity.Data;
+using Blog_Escola_Dotnet.BusinessManager.Interfaces;
+using Blog_Escola_Dotnet.BusinessManager;
+
 var builder = WebApplication.CreateBuilder(args);
 //var connectionString = builder.Configuration.GetConnectionString("ApplicationDbContextConnection") ?? throw new InvalidOperationException("Connection string 'ApplicationDbContextConnection' not found.");
 
@@ -12,6 +15,9 @@ builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.R
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//Injeção de Dependência
+builder.Services.AddScoped<IBlogBusinessManager, BlogBusinessManager>();
 
 var app = builder.Build();
 
